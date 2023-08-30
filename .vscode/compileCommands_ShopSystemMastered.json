@@ -1,0 +1,106 @@
+[
+	{
+		"file": "C:\\Users\\Jon10\\OneDrive\\Documents\\GitHub\\Unreal Projects\\ShopSystemMastered\\Source\\ShopSystemMastered\\ShopSystemMastered.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Jon10\\OneDrive\\Documents\\GitHub\\Unreal Projects\\ShopSystemMastered\\.vscode\\compileCommands_ShopSystemMastered\\ShopSystemMastered.261.rsp"
+		],
+		"directory": "E:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Jon10\\OneDrive\\Documents\\GitHub\\Unreal Projects\\ShopSystemMastered\\Source\\ShopSystemMastered\\ShopSystemMastered.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Jon10\\OneDrive\\Documents\\GitHub\\Unreal Projects\\ShopSystemMastered\\.vscode\\compileCommands_ShopSystemMastered\\ShopSystemMastered.261.rsp"
+		],
+		"directory": "E:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Jon10\\OneDrive\\Documents\\GitHub\\Unreal Projects\\ShopSystemMastered\\Source\\ShopSystemMastered\\ShopSystemMastered.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Jon10\\OneDrive\\Documents\\GitHub\\Unreal Projects\\ShopSystemMastered\\.vscode\\compileCommands_ShopSystemMastered\\ShopSystemMastered.261.rsp"
+		],
+		"directory": "E:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Jon10\\OneDrive\\Documents\\GitHub\\Unreal Projects\\ShopSystemMastered\\Source\\ShopSystemMastered\\ShopSystemMasteredCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Jon10\\OneDrive\\Documents\\GitHub\\Unreal Projects\\ShopSystemMastered\\.vscode\\compileCommands_ShopSystemMastered\\ShopSystemMastered.261.rsp"
+		],
+		"directory": "E:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Jon10\\OneDrive\\Documents\\GitHub\\Unreal Projects\\ShopSystemMastered\\Source\\ShopSystemMastered\\ShopSystemMasteredCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Jon10\\OneDrive\\Documents\\GitHub\\Unreal Projects\\ShopSystemMastered\\.vscode\\compileCommands_ShopSystemMastered\\ShopSystemMastered.261.rsp"
+		],
+		"directory": "E:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Jon10\\OneDrive\\Documents\\GitHub\\Unreal Projects\\ShopSystemMastered\\Source\\ShopSystemMastered\\ShopSystemMasteredGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Jon10\\OneDrive\\Documents\\GitHub\\Unreal Projects\\ShopSystemMastered\\.vscode\\compileCommands_ShopSystemMastered\\ShopSystemMastered.261.rsp"
+		],
+		"directory": "E:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Jon10\\OneDrive\\Documents\\GitHub\\Unreal Projects\\ShopSystemMastered\\Source\\ShopSystemMastered\\ShopSystemMasteredGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Jon10\\OneDrive\\Documents\\GitHub\\Unreal Projects\\ShopSystemMastered\\.vscode\\compileCommands_ShopSystemMastered\\ShopSystemMastered.261.rsp"
+		],
+		"directory": "E:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Jon10\\OneDrive\\Documents\\GitHub\\Unreal Projects\\ShopSystemMastered\\Source\\ShopSystemMastered\\ShopSystemMasteredProjectile.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Jon10\\OneDrive\\Documents\\GitHub\\Unreal Projects\\ShopSystemMastered\\.vscode\\compileCommands_ShopSystemMastered\\ShopSystemMastered.261.rsp"
+		],
+		"directory": "E:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Jon10\\OneDrive\\Documents\\GitHub\\Unreal Projects\\ShopSystemMastered\\Source\\ShopSystemMastered\\ShopSystemMasteredProjectile.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Jon10\\OneDrive\\Documents\\GitHub\\Unreal Projects\\ShopSystemMastered\\.vscode\\compileCommands_ShopSystemMastered\\ShopSystemMastered.261.rsp"
+		],
+		"directory": "E:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Jon10\\OneDrive\\Documents\\GitHub\\Unreal Projects\\ShopSystemMastered\\Source\\ShopSystemMastered\\TP_PickUpComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Jon10\\OneDrive\\Documents\\GitHub\\Unreal Projects\\ShopSystemMastered\\.vscode\\compileCommands_ShopSystemMastered\\ShopSystemMastered.261.rsp"
+		],
+		"directory": "E:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Jon10\\OneDrive\\Documents\\GitHub\\Unreal Projects\\ShopSystemMastered\\Source\\ShopSystemMastered\\TP_PickUpComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Jon10\\OneDrive\\Documents\\GitHub\\Unreal Projects\\ShopSystemMastered\\.vscode\\compileCommands_ShopSystemMastered\\ShopSystemMastered.261.rsp"
+		],
+		"directory": "E:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Jon10\\OneDrive\\Documents\\GitHub\\Unreal Projects\\ShopSystemMastered\\Source\\ShopSystemMastered\\TP_WeaponComponent.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Jon10\\OneDrive\\Documents\\GitHub\\Unreal Projects\\ShopSystemMastered\\.vscode\\compileCommands_ShopSystemMastered\\ShopSystemMastered.261.rsp"
+		],
+		"directory": "E:\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\Jon10\\OneDrive\\Documents\\GitHub\\Unreal Projects\\ShopSystemMastered\\Source\\ShopSystemMastered\\TP_WeaponComponent.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.32.31326\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\Jon10\\OneDrive\\Documents\\GitHub\\Unreal Projects\\ShopSystemMastered\\.vscode\\compileCommands_ShopSystemMastered\\ShopSystemMastered.261.rsp"
+		],
+		"directory": "E:\\Epic Games\\UE_5.2\\Engine\\Source"
+	}
+]
